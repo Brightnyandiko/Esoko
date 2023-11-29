@@ -25,7 +25,7 @@ import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.bright.Esoko.Model.Product
-import com.example.e_commerce.R
+import com.bright.Esoko.R
 import java.util.*
 
 

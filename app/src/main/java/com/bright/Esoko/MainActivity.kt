@@ -33,7 +33,6 @@ import com.bright.Esoko.Screen.Summary.SummaryScreen
 import com.bright.Esoko.Sealed.E_commerce
 import com.bright.Esoko.ViewModel.ProductViewmodel
 import com.bright.Esoko.ui.theme.EcommerceTheme
-import com.example.e_commerce.R
 
 
 class MainActivity : ComponentActivity() {

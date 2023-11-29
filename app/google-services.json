@@ -1,36 +1,45 @@
 {
   "project_info": {
-    "project_number": "421610258518",
-    "project_id": "e-commerce-7e47c",
-    "storage_bucket": "e-commerce-7e47c.appspot.com"
+    "project_number": "14306889757",
+    "project_id": "e-commerce-nate",
+    "storage_bucket": "e-commerce-nate.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:421610258518:android:b21dc7ce67187ce75d7bf7",
+        "mobilesdk_app_id": "1:14306889757:android:0123f4135ce6cde7c336f4",
         "android_client_info": {
-          "package_name": "com.example.e_commerce"
+          "package_name": "com.bright.Esoko"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "421610258518-4og8tb1ocdimu2dis8d0fqlmile6i309.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCev2Q5gNaQHPD9-lLH3U6ktE_9dEApAfA"
+          "current_key": "AIzaSyD9SO2MkHMw0LMw50r6mUt2HF4n3tU0sj8"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "421610258518-4og8tb1ocdimu2dis8d0fqlmile6i309.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14306889757:android:7e34463666f91ea1c336f4",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9SO2MkHMw0LMw50r6mUt2HF4n3tU0sj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
     }
