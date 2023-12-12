@@ -65,7 +65,7 @@ fun Account(navController: NavController, @DrawableRes profileImage: Int) {
 
 
                 Text(
-                    text = "Azad Kumar",
+                    text = "Brent Carlson",
                     fontWeight = FontWeight.SemiBold,
                     fontSize = 18.sp,
                     color = MaterialTheme.colors.primaryVariant,
@@ -74,7 +74,7 @@ fun Account(navController: NavController, @DrawableRes profileImage: Int) {
 
 
                 Text(
-                    text = "Kumarazad2917@gmail.com",
+                    text = "carlsonbright@outlook.com",
                     fontWeight = FontWeight.SemiBold,
                     fontSize = 14.sp,
                     color = MaterialTheme.colors.primaryVariant,
